@@ -17,7 +17,7 @@ The dashboard enables leadership and stakeholders to identify hotspots, track co
 ## ⚙️ Tools & Technologies
 - **Power BI** – Interactive dashboard design, DAX calculations, reporting.  
 - **Excel** – Data cleaning, preprocessing, and preparation.  
-- **SharePoint** – Data storage and integration for collaboration.  
+- **SQL** – Data storage and integration for collaboration.  
 
 ---
 
